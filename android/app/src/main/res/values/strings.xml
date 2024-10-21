@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Plafon calc</string>
+    <string name="title_activity_main">Plafon calc</string>
+    <string name="package_name">com.dokter.app</string>
+    <string name="custom_url_scheme">com.dokter.app</string>
+</resources>
